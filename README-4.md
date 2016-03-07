@@ -1,4 +1,3 @@
-user: 4, date: Sun Mar 06 2016 20:04:01 GMT-0800 (PST)
 user: 4
 user: 4
 user: 4
